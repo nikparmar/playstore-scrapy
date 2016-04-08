@@ -1,2 +1,2 @@
 # playstore-scrapy
-Helps you to get reviews from any application on playstore
+Helps you to get reviews for any application on playstore
